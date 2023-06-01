@@ -1,0 +1,9 @@
+main DSTACK_USAGE:7 DSTACK_LEVEL:7 FILE:"Main.c" LINE:66
+lcd_printfxy DSTACK_USAGE:14 DSTACK_LEVEL:21 FILE:"C:\cvavreval\lib\stdio.lib" LINE:2289
+lcd_gotoxy DSTACK_USAGE:4 DSTACK_LEVEL:25 FILE:"C:\cvavreval\lib\alcd_twi.lib" LINE:142
+_lcd_write_data DSTACK_USAGE:1 DSTACK_LEVEL:26 FILE:"C:\cvavreval\lib\alcd_twi.lib" LINE:85
+_lcd_write_nibble_hi DSTACK_USAGE:2 DSTACK_LEVEL:28 FILE:"C:\cvavreval\lib\alcd_twi.lib" LINE:67
+_lcd_setbit DSTACK_USAGE:2 DSTACK_LEVEL:30 FILE:"C:\cvavreval\lib\alcd_twi.lib" LINE:54
+pcf8574_write DSTACK_USAGE:2 DSTACK_LEVEL:32 FILE:"C:\cvavreval\lib\pcf8574_twi.lib" LINE:74
+twi_master_trans DSTACK_USAGE:17 DSTACK_LEVEL:49 FILE:"C:\cvavreval\lib\twi.lib" LINE:159
+twi_int_handler DSTACK_USAGE:18 DSTACK_LEVEL:67 FILE:"C:\cvavreval\lib\twi.lib" LINE:271

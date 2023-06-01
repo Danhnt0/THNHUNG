@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:56BE4A15
+NODE:M LEVEL:0 LINE:2 "SERVO_H"
+NODE:I LEVEL:0 LINE:4 "C:\cvavreval\inc\mega328p.h"
+NODE:V LEVEL:0 LINE:6 "angle -> R5,R6"
+NODE:F LEVEL:0 LINE:8 "servo_init(void)"
+NODE:F LEVEL:0 LINE:22 "servo_set_angle(unsigned int x)"
